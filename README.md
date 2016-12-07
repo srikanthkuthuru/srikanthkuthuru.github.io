@@ -1,2 +1,2 @@
-# srikanth.github.io
+# srikanthkuthuru.github.io
 Personal Website
