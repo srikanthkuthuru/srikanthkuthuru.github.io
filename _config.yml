@@ -1,3 +1,7 @@
-name: Hank Quinlan, Horrible Cop
+<<<<<<< HEAD
+name: Srikanth Kuthuru
+=======
+name: Srikanth Kuthuru's Website
+>>>>>>> f2b4e688e3591802dbc9c7dc00990091ae2b3cb3
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
